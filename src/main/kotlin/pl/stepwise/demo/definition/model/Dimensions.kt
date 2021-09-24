@@ -11,7 +11,7 @@ class Dimensions(
     val minX: Int,
     @Column(name = "maxX", nullable = false)
     val maxX: Int,
-    @Column(name = "min_y", nullable = false)
+    @Column(name = "minY", nullable = false)
     val minY: Int,
     @Column(name = "maxY", nullable = false)
     val maxY: Int,
