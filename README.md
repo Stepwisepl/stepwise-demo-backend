@@ -1,7 +1,7 @@
 # Stepwise demo application
 
 ## Goals
-
+Main goal of this project is a knowledge base about development good practices that are used in Stepwise.
 
 ## Technology
 
